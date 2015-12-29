@@ -17,3 +17,7 @@ deploy:
   on:
     tags: true
     repo: cmdrjs/jquery-cmdrjs
+cache:
+  directories:
+  - node_modules
+  - bower_components
