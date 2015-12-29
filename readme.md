@@ -1,4 +1,4 @@
-# cmdrjs
+# jquery-cmdrjs
 
 A jQuery plugin for [cmdrjs](https://github.com/cmdrjs/cmdrjs).
 
