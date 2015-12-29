@@ -20,7 +20,7 @@ Download files from the [releases](https://github.com/cmdrjs/jquery-cmdrjs/relea
 ```html
 <script src="jquery.js"></script>
 <script src="cmdr.js"></script>
-<script src="jquery-cmdrjs.min.js"></script>
+<script src="jquery.cmdr.js"></script>
 <script>    
     $('#container').cmdr({
         //options here
