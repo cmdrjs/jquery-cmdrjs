@@ -2,8 +2,8 @@
 
 A jQuery plugin for [cmdrjs](https://github.com/cmdrjs/cmdrjs).
 
-[![Build status](https://travis-ci.org/cmdrjs/cmdrjs.png)](https://travis-ci.org/cmdrjs/cmdrjs)
-[![Bower version](https://badge.fury.io/bo/cmdrjs.svg)](http://badge.fury.io/bo/cmdrjs)
+[![Build status](https://travis-ci.org/cmdrjs/jquery-cmdrjs.png)](https://travis-ci.org/cmdrjs/cmdrjs)
+[![Bower version](https://badge.fury.io/bo/jquery-cmdrjs.svg)](http://badge.fury.io/bo/jquery-cmdrjs)
 
 ## Installing the plugin
 
