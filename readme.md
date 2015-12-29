@@ -1,28 +1,29 @@
 # cmdrjs
 
-> The best jQuery plugin ever.
+A jQuery plugin for [cmdrjs](https://github.com/cmdrjs/cmdrjs).
 
+This plugin creates a new cmdrjs [Shell](https://github.com/cmdrjs/cmdrjs/wiki/shell-class) object for each of the selected elements.
 
-## Getting Started
+## Installing the module
 
-Download the [production version][min] or the [development version][max].
+#### Bower
+```
+bower install jquery-cmdrjs
+```
 
-[min]: https://raw.githubusercontent.com/cruikshj/jquery-jquery-cmdrjs/master/dist/jquery.jquery-cmdrjs.min.js
-[max]: https://raw.githubusercontent.com/cruikshj/jquery-jquery-cmdrjs/master/dist/jquery.jquery-cmdrjs.js
+#### Manual
 
-In your web page:
+Download files from the [releases](https://github.com/cmdrjs/jquery-cmdrjs/releases) page.
+
+## Basic usage
 
 ```html
 <script src="jquery.js"></script>
-<script src="dist/jquery-cmdrjs.min.js"></script>
-<script>
-  jQuery(function ($) {
-    $.awesome(); // "awesome"
-  });
+<script src="cmdr.js"></script>
+<script src="jquery-cmdrjs.min.js"></script>
+<script>    
+    $('#container').cmdr({
+        //options here
+    });
 </script>
 ```
-
-
-## License
-
-MIT © John Cruikshank

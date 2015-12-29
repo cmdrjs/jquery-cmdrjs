@@ -4,3 +4,14 @@ node_js:
   - 'iojs'
   - '0.12'
   - '0.10'
+deploy:
+  provider: releases
+  api_key:
+    secure: D/sK1W0oY96ZFnTyF3KnEZSjfVeUxXy7luJHYDkZaLQOIht7uQ4BRfhAihhjOe7rAdoNCVhkkRH+q/xhxnOg5sBOZE44om9jDvEZDstkvqCtTq51RuxRjgdrJg8ZWvjD/GW6+SKjrvO5XP9rn1qMevX3zdq8jaERjDu+RMJ5TRY=
+  file:
+  - dist/jquery-cmdr.js
+  - dist/jquery-cmdr.min.js
+  skip_cleanup: true
+  on:
+    tags: true
+    repo: cmdrjs/jquery-cmdrjs

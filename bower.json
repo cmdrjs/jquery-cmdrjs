@@ -1,11 +1,18 @@
 {
   "name": "jquery-cmdrjs",
-  "version": "1.0.0",
+  "description": "A jQuery plugin for cmdrjs.",
+  "keywords": [
+    "jquery-plugin"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/cmdrjs/jquery-cmdrjs"
+  },
   "dependencies": {
-    "cmdrjs": "~1.1.0-beta"
+    "cmdrjs": "~1.1.1-beta",
+    "jquery": ">=1.2.3"
   },
   "devDependencies": {
-    "qunit": "~1.12.0",
-    "jquery": "~2.1.4"
+    "qunit": "~1.12.0"
   }
 }
