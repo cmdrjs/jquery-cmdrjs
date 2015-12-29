@@ -4,6 +4,7 @@ node_js:
   - '0.10'
 before_script:
 - npm install -g grunt-cli
+- bower install
 deploy:
   provider: releases
   api_key:
