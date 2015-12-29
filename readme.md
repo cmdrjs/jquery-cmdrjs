@@ -5,9 +5,7 @@ A jQuery plugin for [cmdrjs](https://github.com/cmdrjs/cmdrjs).
 [![Build status](https://travis-ci.org/cmdrjs/cmdrjs.png)](https://travis-ci.org/cmdrjs/cmdrjs)
 [![Bower version](https://badge.fury.io/bo/cmdrjs.svg)](http://badge.fury.io/bo/cmdrjs)
 
-This plugin creates a new cmdrjs [Shell](https://github.com/cmdrjs/cmdrjs/wiki/shell-class) object for each of the selected elements.
-
-## Installing the module
+## Installing the plugin
 
 #### Bower
 ```
@@ -30,3 +28,5 @@ Download files from the [releases](https://github.com/cmdrjs/jquery-cmdrjs/relea
     });
 </script>
 ```
+
+This plugin creates a new cmdrjs [Shell](https://github.com/cmdrjs/cmdrjs/wiki/shell-class) object for each of the selected elements.
