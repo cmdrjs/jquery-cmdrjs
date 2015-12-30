@@ -15,8 +15,8 @@ deploy:
   api_key:
     secure: QP8YxRON5Pg99VAzoZDRFqfkOV63vVH9PvK6gfL9UaJPfM8H4RmTw1joJNM4a5ulrak6F1KJE45BKThu3Z+Rp9Vt2gp2Al/DpK3FbmSGkKnM7gGeGA7AdD8BQstyFaofG1Sq0exVkEiSuxnZbSjrdBJd2yc+uyW/cOXrvUHpIBucu+CUrPduJGSzehMaSgllpsEk+yXfahfRDZhnN4JNfy/MkjGP5E5icV7OpMbn5+PW1Ci7Ywe4qGu1TO/jJMfGUwdTSElIMJQsx8lLw1R389HMS8LZ8KAjWr6I04Jz9DD+cnyTRYaHCgk7zBcW5Sh0sr0zQHl/7k0vSGzfBrVXVwDyKiazQiFnCVZENH1yWwEVgkfYWtQ867tvLv0pPv2uTWkdduCG835ueGt88Yg7HRJR4huZkvk6B1NpOHYjrgv6Va4MDmXDARBFMid/3bXNUxRBcy3rU/0Nt7/xSh1oHvvWHs5hn+Oekjfy9FX4vOySio6Rtuy4vjBzXuJMb0EbWZ7uY2hJrO6ZemrxkEwx8hIu6U/gmR5CXag4kqOrMTnSUUo/Bj2d1/YaIhjHv53L5Hp0FcdY6ocFc3Wng9mWpTBAnZfF8uXvRhVYyN8TFiwdUmNjZb2eXaiXJi6QdHlKcOVSp6LG0xLIxVTweNhOznfcrmThFMKgDInsh+Ifgmc=
   file:
-  - dist/jquery-cmdr.js
-  - dist/jquery-cmdr.min.js
+  - dist/jquery.cmdr.js
+  - dist/jquery.cmdr.min.js
   on:
     tags: true
     repo: cmdrjs/jquery-cmdrjs
