@@ -1,7 +1,7 @@
 {
   "name": "jquery-cmdrjs",
   "version": "1.0.2",
-  "description": "A jQuery plugin for cmdrjs.",
+  "description": "A cmdrjs plugin for jQuery.",
   "keywords": [
     "jquery-plugin"
   ],
